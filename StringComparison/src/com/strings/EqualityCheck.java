@@ -14,6 +14,7 @@ public class EqualityCheck {
 		System.out.println(a1.s1);
 		System.out.println(a.s1==a1.s1);
 		System.out.println("sandeep singh");
+		System.out.println("don no.1");
 	}
 
 }
